@@ -4,7 +4,7 @@
             "conditions": [
                 "Sales in the last 24 months for accounts with balance transfer amount >0 in January 2007",
                 "Last 24 months’ sales for accounts initiating a balance transfer in January 2007",
-                "predators"
+                "spiders"
             ],
             "results": [
                 "<iframe width=\"920\" height=\"1260\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGI1YzA1YjctZWU0My00NmMwLWI2ZGQtMDgwOTA4MWY4MTU1IiwidCI6IjJmYzhjNjQwLTZhMjItNDgzZC1hMjA2LTdmN2EwZTAwYTZiZSIsImMiOjN9\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
